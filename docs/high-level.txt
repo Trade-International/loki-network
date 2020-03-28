@@ -1,3 +1,6 @@
+
+
+
 LLARP - Low Latency Anon Routing Protocol
 
 	TL;DR edition: an onion router with a tun interface for transporting ip packets
@@ -20,8 +23,7 @@ LLARP - Low Latency Anon Routing Protocol
 	"What if I2P was made in the current year (2018)? What would be different?"
 	
 	
-	Project Non Goals:
-	
+	Project Non Goals
 	
 	This project does not attempt to solve traffic shape correlation or active nation
 	state sponsored network attacks. The former is an inherit property of low latency
